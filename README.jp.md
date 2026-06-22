@@ -6,7 +6,9 @@
 
 ## 概要
 
-**PQViewer (Builder)** は、GitHub Pages 上で動作する WebGL2 ベースの分子・結晶構造ビューア兼ビルダーです。`index.html` をブラウザで開くだけで利用でき、構造データ、ボリュームデータ、ベクトル場・テンソル場をインタラクティブに可視化・編集できます。
+**PQViewer (Builder)** は、GitHub Pages 上で動作する WebGL2 ベースの分子・結晶構造ビューア兼ビルダーです。
+[PQViewer (Builder)](https://mfukudaqed.github.io/PQViewer_Builder/)のページへブラウザでアクセスするだけで利用でき、
+構造データ、ボリュームデータ、ベクトル場・テンソル場をインタラクティブに可視化・編集できます。
 
 
 ## 主な機能
@@ -75,7 +77,7 @@
 
 ## 使い方
 
-1. ブラウザで `index.html` を開きます。
+1. ブラウザで  [PQViewer (Builder)](https://mfukudaqed.github.io/PQViewer_Builder/)ページを開きます。
 1. `xyz`, `cif`, `cube`, `fieldcube`, `scene json` などのファイルをページまたは描画領域にドラッグ & ドロップします。
 1. Control Panel から構造編集、等値面、断面、ベクトル/テンソル場、Lagrange 解析などを操作します。
 1. 必要に応じて PNG、XYZ、CIF、OBJ、CSV、Scene JSON を出力します。
@@ -83,7 +85,7 @@
 
 ## 必要環境
 
-- WebGL2 対応のモダンブラウザ
+- WebGL2 対応のブラウザ
   - Chrome, Edge, Firefox, Safari など
 - JavaScript が有効であること
 - MathJax CDN へアクセス可能であること（数式注釈を使う場合）

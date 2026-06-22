@@ -7,7 +7,8 @@
 ## Overview
 
 **PQViewer (Builder)** is a WebGL2-based molecular and crystal structure viewer/builder designed to run on GitHub Pages.
-It works directly from `index.html` in a browser and provides interactive visualization and editing of structures, volume data, vector fields, and tensor fields.
+The [PQViewer (Builder)](https://mfukudaqed.github.io/PQViewer_Builder/) can be used simply by accessing the page through a web browser.
+It provides interactive visualization and editing of structural data, volumetric data, and vector/tensor fields.
 
 
 ## Main Features
@@ -76,7 +77,7 @@ It works directly from `index.html` in a browser and provides interactive visual
 
 ## Usage
 
-1. Open `index.html` in a browser.
+1. Open the [PQViewer (Builder)](https://mfukudaqed.github.io/PQViewer_Builder/) in a web browser.
 1. Drag and drop `xyz`, `cif`, `cube`, `fieldcube`, or `scene json` files onto the page or the rendering area.
 1. Use the Control Panel to edit structures, generate isosurfaces, create sections, visualize vector/tensor fields, and run Lagrange analysis.
 1. Export PNG, XYZ, CIF, OBJ, CSV, or Scene JSON files as needed.
